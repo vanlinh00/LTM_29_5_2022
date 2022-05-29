@@ -1,0 +1,10 @@
+﻿  ChatServer.cpp
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\LTM_29_5_2022\ChatServer\ChatServer\ChatServer.cpp(40,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\LTM_29_5_2022\ChatServer\ChatServer\ChatServer.cpp(47,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\LTM_29_5_2022\ChatServer\ChatServer\ChatServer.cpp(52,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\LTM_29_5_2022\ChatServer\ChatServer\ChatServer.cpp(75,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\LTM_29_5_2022\ChatServer\ChatServer\ChatServer.cpp(98,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\LTM_29_5_2022\ChatServer\ChatServer\ChatServer.cpp(98,10): message : consider using '%lld' in the format string
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\LTM_29_5_2022\ChatServer\ChatServer\ChatServer.cpp(98,10): message : consider using '%Id' in the format string
+C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\LTM_29_5_2022\ChatServer\ChatServer\ChatServer.cpp(98,10): message : consider using '%I64d' in the format string
+  ChatServer.vcxproj -> C:\Users\84372\Desktop\2021_2\1_LapTrinhMang\ThucHanh\LTM_29_5_2022\ChatServer\x64\Debug\ChatServer.exe
